@@ -6,13 +6,15 @@ Welcome to my Data Analyst portfolio! This repository showcases my skills in Pyt
 
 - [Introduction](#introduction)
 - [Projects](#projects)
-  - [Project 1: Sales Analysis](#project-1-sales-analysis)
-  - [Project 2: Customer Segmentation](#project-2-customer-segmentation)
-  - [Project 3: Web Traffic Analysis](#project-3-web-traffic-analysis)
+  - [Project 1: AdventureWorks2019 DB](adventureworks2019_db)
+  - [Project 2: Analyze Runkeeper Fitness Data](analyze_runkeeper_fitness_data)
+  - [Project 3: Exploring Airbnb Market Trendstion](exploring_airbnb_market_trends)
+  - [Project 4: Exploring the Bitcoin Cryptocurrency Market](exploring_the_bitcoin_cryptocurrency_market)
+  - [Project 5: Analyzing academic research trends](meta_article_research)
+  - [Project 6: Table Creation](table_creation)
+  - [Project 7: Word Frequency in Classic Novels](word_frequency_in_classic_novels)
 - [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [Contact](#contact)
+
 
 ## Introduction
 
@@ -54,7 +56,7 @@ This portfolio includes several projects that highlight my analytical skills, pr
 
 ### Project 5: Analyzing academic research trends
 
-- **Description:** This project leverages data analysis techniques to uncover patterns and insights from academic publications, in order to understand the current state and future direction of research in the researched disciplin
+- **Description:** This project leverages data analysis techniques to uncover patterns and insights from academic publications, in order to understand the current state and future direction of research in the researched discipline.
 
 - **Skills:** Data cleaning, data visualization, Time Series Analysis
 - **Technologies:** Python (Pandas, NumPy, Matplotlib), Excel
@@ -73,7 +75,6 @@ This portfolio includes several projects that highlight my analytical skills, pr
 - **Skills:** Data extraction, Data cleaning, data visualization
 - **Technologies:** Python (Requests, BeautifulSoup, NLP)
 - **Link:** [Word Frequency in Classic Novels](word_frequency_in_classic_novels)
-
 
 
 ## Technologies Used
