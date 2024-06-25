@@ -28,7 +28,7 @@ This portfolio includes several projects that highlight my analytical skills, pr
 
 - **Description:** Participated in a comprehensive bibliographic project as part of a larger survey, focusing on the systematic literature review and bibliometric analysis of neurocognitive methodologies applied to learning mathematics. 
 
-This innovative project, conducted in collaboration with a university in Israel and other international institutions, represents a significant shift in research methodology. It leverages big data, encompassing approximately 600 articles, to expand the scope of research from individual subjects to the sources themselves, aligning with a growing trend in higher education.
+  This innovative project, conducted in collaboration with a university in Israel and other international institutions, represents a significant shift in research methodology. It leverages big data, encompassing approximately 600 articles, to expand the scope of research from individual subjects to the sources themselves, aligning with a growing trend in higher education.
 
 Key contributions include:
 
@@ -38,8 +38,12 @@ Key contributions include:
 - **Data Visualization:** Created visual representations through graphs and Excel tables.
 
 
-- **Technologies:** Python (Pandas, NumPy, Matplotlib, BeautifulSoup, Jupyter Notebook), Excel
-- **Link:** [Neurocognitive Methodology in Learning Mathematics - Bibliographic Project](meta_article_research) 
+## Technologies: 
+- ***Python:** Pandas, NumPy, Matplotlib, BeautifulSoup, Jupyter Notebook
+- **Excel**
+
+## Link: 
+[Neurocognitive Methodology in Learning Mathematics - Bibliographic Project](meta_article_research) 
 
 ###  Project 2: AdventureWorks2019 DB
 
