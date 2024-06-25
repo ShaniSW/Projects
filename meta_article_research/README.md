@@ -1,4 +1,4 @@
-# Neurocognitive Methodology in Learning Mathematics - Bibliographic Project
+# Bibliometric analysis for neurocognitive research
 
 ## Overview
 
@@ -26,7 +26,7 @@ Use the provided scripts to fetch data from Scopus and Web of Science using your
 
 #### Key Steps:
 
-- **Convert to Lowercase:** Standardize the 'Author Keywords' column to lowercase to ensure uniformity.
+- **Normalize text casing:** Standardize the 'Author Keywords' column to lowercase to ensure uniformity.
 - **Replace Terms:** Standardize terminology for consistency
 - **Filter Keywords:** Focus on relevant neurocognitive methodologies and mathematical terms to ensure data relevance.
 

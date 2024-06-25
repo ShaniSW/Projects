@@ -6,7 +6,7 @@ Welcome to my Data Analyst portfolio! This repository showcases my skills in Pyt
 
 - [Introduction](#introduction)
 - [Projects](#projects)
-  - [Project 1: Neurocognitive Methodology in Learning Mathematics - Bibliographic Project](meta_article_research)
+  - [Project 1: Bibliometric analysis for neurocognitive research](meta_article_research)
   - [Project 2: AdventureWorks2019 DB](adventureworks2019_db)
   - [Project 3: Analyze Runkeeper Fitness Data](analyze_runkeeper_fitness_data)
   - [Project 4: Exploring Airbnb Market Trendstion](exploring_airbnb_market_trends)
@@ -24,7 +24,7 @@ This portfolio includes several projects that highlight my analytical skills, pr
 
 ## Projects
 
-### Project 1: Neurocognitive Methodology in Learning Mathematics - Bibliographic Project
+### Project 1: Bibliometric analysis for neurocognitive research
 
 #### Description:
 
@@ -41,7 +41,7 @@ This innovative project, conducted in collaboration with a university in Israel 
 
 **Technologies:** Python (Pandas, NumPy, Matplotlib, BeautifulSoup, Jupyter Notebook), Excel.
 
-**Link:** [Neurocognitive Methodology in Learning Mathematics - Bibliographic Project](meta_article_research) 
+**Link:** [Bibliometric analysis for neurocognitive research](meta_article_research) 
 
 
 ###  Project 2: AdventureWorks2019 DB
