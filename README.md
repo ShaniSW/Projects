@@ -32,7 +32,7 @@ Participated in a comprehensive bibliographic project as part of a larger survey
 
 This innovative project, conducted in collaboration with a university in Israel and other international institutions, represents a significant shift in research methodology. It leverages big data, encompassing approximately 600 articles, to expand the scope of research from individual subjects to the sources themselves, aligning with a growing trend in higher education.
 
-Key contributions include:
+**Key contributions include:**
 
 - **Data Retrieval:** Extracted data from Scopus and Web of Science using API keys.
 - **Data Preparation:** Cleaned data by removing accents, extracting country names, and filtering records based on standardized terminology and relevant keywords.
@@ -43,12 +43,14 @@ Key contributions include:
 
 **Link:** [Neurocognitive Methodology in Learning Mathematics - Bibliographic Project](meta_article_research) 
 
+
 ###  Project 2: AdventureWorks2019 DB
 
 - **Description:** This project showcases my ability to extract valuable insights, perform complex queries, and create meaningful reports using this extensive dataset.
 - **Skills:** Data Exploration, Sales Analysis, Sales Analysis, Employee Performance, Purchasing Analysis
 - **Technologies:** MS SQL Server 
 - **Link:** [AdventureWorks2019 DB](adventureworks2019_db)
+
 
 ### Project 3: Analyze Runkeeper Fitness Data
 
@@ -57,12 +59,14 @@ Key contributions include:
 - **Technologies:** Python (Pandas, Matplotlib)
 - **Link:** [Analyze Runkeeper Fitness Data](analyze_runkeeper_fitness_data)
 
+
 ### Project 4: Exploring Airbnb Market Trendstion 
 
 - **Description:** Apply data importing and cleaning skills to analyze the Airbnb market in New york. Ingest and combine the data from multiple file types, and clean strings and format dates to extract accurate information.
 - **Skills:** Data cleaning
 - **Technologies:** Python (Pandas, NumPy)
 - **Link:** [Exploring Airbnb Market Trends](exploring_airbnb_market_trends)
+
 
 ### Project 5: Exploring the Bitcoin Cryptocurrency Market
 
@@ -71,12 +75,14 @@ Key contributions include:
 - **Technologies:** Python (Pandas, Matplotlib)
 - **Link:** [Exploring the Bitcoin Cryptocurrency Market](exploring_the_bitcoin_cryptocurrency_market)
 
+
 ###  Project 6: Table Creation
 
 - **Description:** In this project, I showcase my skills in SQL by designing and creating a set of database tables for a sample application. The database schema is designed to handle various aspects of the application efficiently, ensuring data integrity and optimal performance.
 - **Skills:** Defines clear relationships between tables to support efficient querying and data retrieval.
 - **Technologies:** MS SQL Server 
 - **Link:** [Table Creation](table_creation)
+
 
 ###  Project 7: Word Frequency in Classic Novels
 
