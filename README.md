@@ -30,7 +30,7 @@ This portfolio includes several projects that highlight my analytical skills, pr
 
 Participated in a comprehensive bibliographic project as part of a larger survey, focusing on the systematic literature review and bibliometric analysis of neurocognitive methodologies applied to learning mathematics. 
 
-This innovative project, conducted in collaboration with a university in Israel and other international institutions, represents a significant shift in research methodology. It leverages big data, encompassing approximately 600 articles, to expand the scope of research from individual subjects to the sources themselves, aligning with a growing trend in higher education.
+This innovative project, conducted in collaboration with a university in Israel and other international institutions, represents a significant shift in research methodology. It leverages big data, encompassing approximately 600 articles, to expand the scope of research from individual subjects to the sources themselves, aligning with a growing trend in academic research.
 
 **Key contributions include:**
 
