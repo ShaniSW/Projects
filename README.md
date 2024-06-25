@@ -47,7 +47,7 @@ This innovative project, conducted in collaboration with a university in Israel 
 ###  Project 2: AdventureWorks2019 DB
 
 - **Description:** This project showcases my ability to extract valuable insights, perform complex queries, and create meaningful reports using this extensive dataset.
-- **Skills:** Data Exploration, Sales Analysis, Sales Analysis, Employee Performance, Purchasing Analysis
+- **Skills:** Data Exploration, Sales Analysis, Employee Performance, Purchasing Analysis
 - **Technologies:** MS SQL Server 
 - **Link:** [AdventureWorks2019 DB](adventureworks2019_db)
 
