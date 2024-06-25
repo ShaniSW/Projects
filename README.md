@@ -6,11 +6,11 @@ Welcome to my Data Analyst portfolio! This repository showcases my skills in Pyt
 
 - [Introduction](#introduction)
 - [Projects](#projects)
-  - [Project 1: AdventureWorks2019 DB](adventureworks2019_db)
-  - [Project 2: Analyze Runkeeper Fitness Data](analyze_runkeeper_fitness_data)
-  - [Project 3: Exploring Airbnb Market Trendstion](exploring_airbnb_market_trends)
-  - [Project 4: Exploring the Bitcoin Cryptocurrency Market](exploring_the_bitcoin_cryptocurrency_market)
-  - [Project 5: Analyzing academic research trends](meta_article_research)
+  - [Project 1: Neurocognitive Methodology in Learning Mathematics - Bibliographic Project](meta_article_research)
+  - [Project 2: AdventureWorks2019 DB](adventureworks2019_db)
+  - [Project 3: Analyze Runkeeper Fitness Data](analyze_runkeeper_fitness_data)
+  - [Project 4: Exploring Airbnb Market Trendstion](exploring_airbnb_market_trends)
+  - [Project 5: Exploring the Bitcoin Cryptocurrency Market](exploring_the_bitcoin_cryptocurrency_market)
   - [Project 6: Table Creation](table_creation)
   - [Project 7: Word Frequency in Classic Novels](word_frequency_in_classic_novels)
 - [Technologies Used](#technologies-used)
@@ -24,43 +24,47 @@ This portfolio includes several projects that highlight my analytical skills, pr
 
 ## Projects
 
+### Project 1: Neurocognitive Methodology in Learning Mathematics - Bibliographic Project
 
-###  Project 1: AdventureWorks2019 DB
+- **Description:** Participated in a comprehensive bibliographic project as part of a larger survey, focusing on the systematic literature review and bibliometric analysis of neurocognitive methodologies applied to learning mathematics. This innovative project, conducted in collaboration with a university in Israel and other international institutions, represents a significant shift in research methodology. It leverages big data, encompassing approximately 600 articles, to expand the scope of research from individual subjects to the sources themselves, aligning with a growing trend in higher education.
+
+- Key contributions include:
+
+- **Data Retrieval:** Extracted data from Scopus and Web of Science using API keys.
+- **Data Preparation:** Cleaned data by removing accents, extracting country names, and filtering records based on standardized terminology and relevant keywords.
+- **Data Analysis:** Implemented Python scripts for detailed analysis.
+- **Data Visualization:** Created visual representations through graphs and Excel tables.
+
+- **Technologies:** Python (Pandas, NumPy, Matplotlib, BeautifulSoup, Jupyter Notebook), Excel
+- **Link:** [Neurocognitive Methodology in Learning Mathematics - Bibliographic Project](meta_article_research) 
+
+###  Project 2: AdventureWorks2019 DB
 
 - **Description:** This project showcases my ability to extract valuable insights, perform complex queries, and create meaningful reports using this extensive dataset.
 - **Skills:** Data Exploration, Sales Analysis, Sales Analysis, Employee Performance, Purchasing Analysis
 - **Technologies:** MS SQL Server 
 - **Link:** [AdventureWorks2019 DB](adventureworks2019_db)
 
-### Project 2: Analyze Runkeeper Fitness Data
-
+### Project 3: Analyze Runkeeper Fitness Data
 
 - **Description:** Import, clean, manipulate, and analyze the seven years of Runkeeper’s training data.
 - **Skills:** Data cleaning, data visualization
 - **Technologies:** Python (Pandas, Matplotlib)
 - **Link:** [Analyze Runkeeper Fitness Data](analyze_runkeeper_fitness_data)
 
-### Project 3: Exploring Airbnb Market Trendstion 
+### Project 4: Exploring Airbnb Market Trendstion 
 
 - **Description:** Apply data importing and cleaning skills to analyze the Airbnb market in New york. Ingest and combine the data from multiple file types, and clean strings and format dates to extract accurate information.
 - **Skills:** Data cleaning
 - **Technologies:** Python (Pandas, NumPy)
 - **Link:** [Exploring Airbnb Market Trends](exploring_airbnb_market_trends)
 
-### Project 4: Exploring the Bitcoin Cryptocurrency Market
+### Project 5: Exploring the Bitcoin Cryptocurrency Market
 
 - **Description:** Clean the dataset by discarding cryptocurrencies without market capitalization, comparing Bitcoin with other currencies, and preparing data for visualization.  
 - **Skills:** Data cleaning, data visualization
 - **Technologies:** Python (Pandas, Matplotlib)
 - **Link:** [Exploring the Bitcoin Cryptocurrency Market](exploring_the_bitcoin_cryptocurrency_market)
-
-### Project 5: Analyzing academic research trends
-
-- **Description:** This project leverages data analysis techniques to uncover patterns and insights from academic publications, in order to understand the current state and future direction of research in the researched discipline.
-
-- **Skills:** Data cleaning, data visualization, Time Series Analysis
-- **Technologies:** Python (Pandas, NumPy, Matplotlib), Excel
-- **Link:** [Analyzing academic research trends](meta_article_research)
 
 ###  Project 6: Table Creation
 
