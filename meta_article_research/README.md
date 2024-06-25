@@ -12,26 +12,33 @@ This project represents an innovative approach that higher education institution
 
 ### 1. Data Retrieval
 
-- Use the provided scripts to fetch data from Scopus and Web of Science using your API keys.
+Use the provided scripts to fetch data from Scopus and Web of Science using your API keys.
+
 - **Sources:** Scopus, Web of Science
 - **Method:** API key retrieval
 - **Documentation:** [Elsevier API Documentation] (https://dev.elsevier.com/)
 
 ### 2. Data Preparation
 
+Data cleaning includes normalizing author keywords for consistency and filtering based on relevant search terms in neurocognitive and mathematical domains.
+
 - **Cleaning data:** Accent removal, country name extraction, record filtering
-- Data cleaning includes normalizing author keywords for consistency and filtering based on relevant search terms in neurocognitive and mathematical domains.
+
 -**Key Steps:**
+
     -**Convert to Lowercase:** Standardize the 'Author Keywords' column to lowercase to ensure uniformity.
     -**Replace Terms:** Standardize terminology for consistency
     -**Filter Keywords:** Focus on relevant neurocognitive methodologies and mathematical terms to ensure data relevance.
 
 ### 3. Data Analysis
 
+Use the analysis scripts to perform bibliometric analysis.
+
 - **Tools:** Python scripts for detailed analysis
-- Use the analysis scripts to perform bibliometric analysis.
+
 
 ### 4. Data Visualization
 
+Generate visualizations using the provided plotting scripts.
+
 - **Outputs:** Graphs, Excel tables
-- Generate visualizations using the provided plotting scripts.
