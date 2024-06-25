@@ -24,11 +24,11 @@ Data cleaning includes normalizing author keywords for consistency and filtering
 
 - **Cleaning data:** Accent removal, country name extraction, record filtering
 
--**Key Steps:**
+#### Key Steps:
 
-    -**Convert to Lowercase:** Standardize the 'Author Keywords' column to lowercase to ensure uniformity.
-    -**Replace Terms:** Standardize terminology for consistency
-    -**Filter Keywords:** Focus on relevant neurocognitive methodologies and mathematical terms to ensure data relevance.
+-**Convert to Lowercase:** Standardize the 'Author Keywords' column to lowercase to ensure uniformity.
+-**Replace Terms:** Standardize terminology for consistency
+-**Filter Keywords:** Focus on relevant neurocognitive methodologies and mathematical terms to ensure data relevance.
 
 ### 3. Data Analysis
 
