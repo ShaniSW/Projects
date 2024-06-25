@@ -20,9 +20,9 @@ Use the provided scripts to fetch data from Scopus and Web of Science using your
 
 ### 2. Data Preparation
 
-Data cleaning includes normalizing author keywords for consistency and filtering based on relevant search terms in neurocognitive and mathematical domains.
-
 - **Cleaning data:** Accent removal, country name extraction, record filtering
+- Data cleaning includes normalizing author keywords for consistency and filtering based on relevant search terms in neurocognitive and mathematical domains.
+
 
 #### Key Steps:
 
@@ -32,13 +32,20 @@ Data cleaning includes normalizing author keywords for consistency and filtering
 
 ### 3. Data Analysis
 
-Use the analysis scripts to perform bibliometric analysis.
-
+- Use the analysis scripts to perform bibliometric analysis.
 - **Tools:** Python scripts for detailed analysis
 
 
 ### 4. Data Visualization
 
-Generate visualizations using the provided plotting scripts.
-
+- Generate visualizations using the provided plotting scripts.
 - **Outputs:** Graphs, Excel tables
+
+# Technologies
+
+- **Python:** Pandas, NumPy, Matplotlib, BeautifulSoup, Jupyter Notebook
+- **Excel**
+
+# Contributing
+
+Feel free to contribute to the project by submitting issues or pull requests.
